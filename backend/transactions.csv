@@ -1,0 +1,25 @@
+Date,Product SKU,Product Name,Type,Quantity,Reason,Performed By
+2026-07-04T12:00:15.591193,SKU-TEST-XXX,Test Product X,OUT,30,Sale,Bob Staff
+2026-07-04T12:00:11.472912,SKU-TEST-XXX,Test Product X,IN,100,Initial stock,Bob Staff
+2026-07-04T11:59:27.597483,ELEC-001,USB-C Hub 7-Port,IN,5,restock,Alice Admin
+2026-07-04T11:58:25.780626,ELEC-001,USB-C Hub 7-Port,IN,5,restock,Alice Admin
+2026-06-29T14:07:57.583075,CLEN-001,Multi-Surface Spray 5L,IN,5,correction,Alice Admin
+2026-06-28T20:24:57.582540,OFFC-001,A4 Paper Ream 500-Sheet,IN,19,supplier delivery,Bob Staff
+2026-06-28T11:41:57.582936,OFFC-003,Stapler Heavy Duty,OUT,20,correction,Bob Staff
+2026-06-25T13:01:57.583317,OFFC-004,Sticky Notes 3x3 Pk12,OUT,7,sale,Alice Admin
+2026-06-23T07:29:57.583029,ELEC-005,Webcam 1080p,IN,16,restock,Alice Admin
+2026-06-19T19:15:57.582272,FURN-002,Standing Desk 140cm,OUT,2,sale,Alice Admin
+2026-06-19T07:16:57.582428,FURN-003,3-Drawer Filing Cabinet,IN,10,restock,Bob Staff
+2026-06-19T00:14:57.582757,ELEC-001,USB-C Hub 7-Port,IN,17,supplier delivery,Alice Admin
+2026-06-17T10:03:57.583359,CLEN-001,Multi-Surface Spray 5L,IN,11,restock,Alice Admin
+2026-06-16T10:48:57.582854,FURN-003,3-Drawer Filing Cabinet,OUT,8,correction,Bob Staff
+2026-06-16T06:11:57.582710,CLEN-001,Multi-Surface Spray 5L,IN,14,initial stock,Bob Staff
+2026-06-14T16:02:57.583167,ELEC-002,Wireless Keyboard,IN,18,correction,Bob Staff
+2026-06-12T10:26:57.582894,ELEC-005,Webcam 1080p,IN,1,supplier delivery,Alice Admin
+2026-06-12T01:29:57.583403,OFFC-003,Stapler Heavy Duty,OUT,17,correction,Bob Staff
+2026-06-10T23:11:57.583118,ELEC-003,27-inch Monitor,OUT,7,correction,Alice Admin
+2026-06-10T20:43:57.583383,OFFC-002,Ballpoint Pen Box 50,OUT,3,sale,Alice Admin
+2026-06-10T07:16:57.582808,ELEC-004,Laptop Stand Aluminium,OUT,7,damaged,Alice Admin
+2026-06-09T18:47:57.582608,OFFC-004,Sticky Notes 3x3 Pk12,OUT,6,correction,Bob Staff
+2026-06-07T03:38:57.582978,OFFC-001,A4 Paper Ream 500-Sheet,IN,11,supplier delivery,Alice Admin
+2026-06-05T19:47:57.582661,ELEC-004,Laptop Stand Aluminium,IN,15,correction,Alice Admin

@@ -1,0 +1,5 @@
+# hooks/
+# Custom React hooks will live here, e.g.:
+#   useProducts.js   — fetch + CRUD for products
+#   useDebounce.js   — debounce input for search
+#   usePagination.js — pagination state helper

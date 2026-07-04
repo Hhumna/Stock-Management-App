@@ -1,0 +1,5 @@
+# utils/
+# Utility functions will live here, e.g.:
+#   formatters.js  — date/currency formatters
+#   validators.js  — form validation helpers
+#   constants.js   — shared app constants
