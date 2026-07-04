@@ -2,6 +2,10 @@
 
 A full-stack inventory and stock management application built with **Flask 3** (REST API) and **React 18 + Vite** (frontend).
 
+## Live Demo
+
+Open the app here: https://stock-management-live.loca.lt
+
 ---
 
 ## Project Structure
